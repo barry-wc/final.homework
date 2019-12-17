@@ -7,18 +7,19 @@ header{
 }
 .right img{
 	height: 25px;
-	float: left;
 }
 .right{
 	width: 1140px;
 	height: 25px;
 	margin: auto;
+	background:#393939;
 	position: relative;
 }
 .right section{
 	position: absolute;
 	float: left;
 	right: 20px;
+	top: 0px;
 }
 .right a{
 	line-height: 25px;
